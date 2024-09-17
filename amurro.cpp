@@ -12,7 +12,7 @@ int main(int argc, char *argv[]) {
     int jugador_eliminado = atoi(argv[1]);
 
     // Amurrarse y reclamar
-    cout<<"NOOOOO YAAAA NO YAAAPO, NO VALEEE YAPO, PUCHA OHH. YA CHAOOO\n";
+    cout << "NOOOOO YAAAA NO YAAAPO, NO VALEEE YAPO, PUCHA OHH. YA CHAOOO\n";
     cout << "¡El jugador " << jugador_eliminado << " se amurra y reclama!\n";
     sleep(2);  // El jugador toma un momento para "reclamar" antes de terminar
 
